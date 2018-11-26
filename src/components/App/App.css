@@ -1,0 +1,58 @@
+h1 {
+
+color: #27aedb;
+
+text-align: center;
+
+}
+
+html{
+  background-color: white;
+}
+
+.calculator{
+  width: 400px;
+  background-color: grey;
+  margin-left: 35%;
+}
+
+.topBtn{
+  width: 100px;
+  height: 100px;
+  background-color: #afb0b5;
+  font-size: 40px;
+}
+
+.display{
+  text-align: right;
+  width: 400px;
+  height: 100px;
+  background-color: black;
+  color:white;
+  font-size: 50px;
+}
+.operations{
+  width: 600px;
+  height: 150px;
+}
+
+.ceroBtn{
+  width: 300px;
+  height: 100px;
+  background-color: #c7c7c7;
+  font-size: 40px;
+}
+
+.opBtn{
+  width: 100px;
+  height: 100px;
+  background-color: orange;
+  font-size: 40px;
+}
+
+.numberBtn{
+  width: 100px;
+  height: 100px;
+  background-color: #c7c7c7;
+  font-size: 40px;
+}
